@@ -1,4 +1,4 @@
-# Bike sharing Dashboard
+# Bike Sharing Dashboard
 
 ## Setup environment
 ```
